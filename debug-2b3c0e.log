@@ -1,0 +1,2 @@
+{"sessionId": "2b3c0e", "runId": "startup", "hypothesisId": "H1", "location": "main.py:lifespan", "message": "db_table_check", "data": {"has_users_table": true, "table_count": 8}, "timestamp": 1775185621757}
+{"sessionId": "2b3c0e", "runId": "startup", "hypothesisId": "H1", "location": "main.py:lifespan", "message": "db_table_check", "data": {"has_users_table": true, "table_count": 8}, "timestamp": 1775185623601}
